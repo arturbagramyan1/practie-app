@@ -1,4 +1,3 @@
-// Contexts/PostListContext.jsx
 import React, { createContext, useReducer } from "react";
 
 export const PostsContext = createContext(null);
